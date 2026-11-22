@@ -1,0 +1,21 @@
+{
+  "version": "v0.1",
+  "items": [
+    {
+      "id": "night_mist",
+      "title": "Night Mist",
+      "subtitle": "Soft night ambience & calm base sound",
+      "description": "Gentle low-level atmosphere designed to settle evening tension without sharp peaks.",
+      "soundComposition": "Soft night ambience + low calm base layer",
+      "bestFor": "Quiet evening wind-down & calm rooms",
+      "category": "THEME",
+      "suitability": "SLEEP",
+      "audioFile": "audio_enc/night_mist.wav",
+      "imageFile": "",
+      "tags": [
+        "SETTLING"
+      ],
+      "isLocked": false
+    }
+  ]
+}
