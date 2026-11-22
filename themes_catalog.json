@@ -1,19 +1,35 @@
 {
-  "version": "v0.2",
+  "version": "v0.3",
   "items": [
     {
-      "id": "night_mist",
-      "title": "Night Mist",
-      "subtitle": "Soft night ambience & calm base sound",
-      "description": "Gentle low-level atmosphere designed to settle evening tension without sharp peaks.",
-      "soundComposition": "Soft night ambience + low calm base layer",
-      "bestFor": "Quiet evening wind-down & calm rooms",
+      "id": "test_beep",
+      "title": "Default Sound 1",
+      "subtitle": "Built-in test audio (res/raw)",
+      "description": "Bundled default audio included with the app for immediate playback.",
+      "soundComposition": "Bundled WAV loop",
+      "bestFor": "Quick playback & testing",
       "category": "THEME",
-      "suitability": "SLEEP",
-      "audioFile": "audio_enc/night_mist.wav",
+      "suitability": "BOTH",
+      "audioFile": "raw://test_beep",
       "imageFile": "",
       "tags": [
         "SETTLING"
+      ],
+      "isLocked": false
+    },
+    {
+      "id": "test_sound_2",
+      "title": "Default Sound 2",
+      "subtitle": "Built-in secondary test audio (res/raw)",
+      "description": "Second bundled default audio included with the app.",
+      "soundComposition": "Bundled WAV loop",
+      "bestFor": "Quick switching & testing",
+      "category": "THEME",
+      "suitability": "SLEEP",
+      "audioFile": "raw://test_sound_2",
+      "imageFile": "",
+      "tags": [
+        "RAIN_AND_BREEZE"
       ],
       "isLocked": false
     }
