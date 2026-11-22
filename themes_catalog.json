@@ -1,5 +1,5 @@
 {
-  "version": "v0.3",
+  "version": "v0.4",
   "items": [
     {
       "id": "test_beep",
@@ -30,6 +30,38 @@
       "imageFile": "",
       "tags": [
         "RAIN_AND_BREEZE"
+      ],
+      "isLocked": false
+    },
+    {
+      "id": "test_sound_3",
+      "title": "Pack Sound 3",
+      "subtitle": "Remote encrypted pack audio (test_sound_3.mp3)",
+      "description": "Extracted from encrypted theme_pack_v04.bin archive for session playback.",
+      "soundComposition": "Remote MP3 loop from pack",
+      "bestFor": "Focus & ambient sessions",
+      "category": "THEME",
+      "suitability": "FOCUS",
+      "audioFile": "audio_enc/theme_pack_v04.bin",
+      "imageFile": "",
+      "tags": [
+        "DEEP_STUDY"
+      ],
+      "isLocked": false
+    },
+    {
+      "id": "test_sound_4",
+      "title": "Pack Sound 4",
+      "subtitle": "Remote encrypted pack audio (test_sound_4.wav)",
+      "description": "Extracted from encrypted theme_pack_v04.bin archive for session playback.",
+      "soundComposition": "Remote WAV loop from pack",
+      "bestFor": "Evening wind-down & rest",
+      "category": "PRESET_MIX",
+      "suitability": "SLEEP",
+      "audioFile": "audio_enc/theme_pack_v04.bin",
+      "imageFile": "",
+      "tags": [
+        "SETTLING"
       ],
       "isLocked": false
     }
